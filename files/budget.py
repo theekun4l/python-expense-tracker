@@ -6,6 +6,7 @@ def set_budget(budget_dict,user_budget):
     date = datetime.now().strftime("%m-%y")
     budget_dict[date] = user_budget
     save_file("budget.json",budget_dict)
+    return budget_dict
 
 def budget_status(budget_dict,expenses_dict):
     date = datetime.now().strftime("%m-%y")

@@ -1,1 +1,14 @@
-{}
+{
+    "04-26": [
+        {
+            "Income": 500,
+            "Income Type": "gym",
+            "Date": "07-04-26"
+        },
+        {
+            "Income": 600,
+            "Income Type": "food",
+            "Date": "07-04-26"
+        }
+    ]
+}

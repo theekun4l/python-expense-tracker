@@ -1,1 +1,18 @@
-{}
+{
+    "04-26": {
+        "food": [
+            {
+                "Amount": 4000,
+                "Category": "food",
+                "Date": "07-04-26"
+            }
+        ],
+        "gym": [
+            {
+                "Amount": 500,
+                "Category": "gym",
+                "Date": "07-04-26"
+            }
+        ]
+    }
+}
